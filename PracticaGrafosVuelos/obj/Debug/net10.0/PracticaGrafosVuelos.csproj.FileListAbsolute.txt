@@ -1,0 +1,15 @@
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.AssemblyInfoInputs.cache
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.AssemblyInfo.cs
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.csproj.CoreCompileInputs.cache
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.sourcelink.json
+C:\PracticaGrafosVuelos\bin\Debug\net10.0\PracticaGrafosVuelos.exe
+C:\PracticaGrafosVuelos\bin\Debug\net10.0\PracticaGrafosVuelos.deps.json
+C:\PracticaGrafosVuelos\bin\Debug\net10.0\PracticaGrafosVuelos.runtimeconfig.json
+C:\PracticaGrafosVuelos\bin\Debug\net10.0\PracticaGrafosVuelos.dll
+C:\PracticaGrafosVuelos\bin\Debug\net10.0\PracticaGrafosVuelos.pdb
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.dll
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\refint\PracticaGrafosVuelos.dll
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.pdb
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\PracticaGrafosVuelos.genruntimeconfig.cache
+C:\PracticaGrafosVuelos\obj\Debug\net10.0\ref\PracticaGrafosVuelos.dll

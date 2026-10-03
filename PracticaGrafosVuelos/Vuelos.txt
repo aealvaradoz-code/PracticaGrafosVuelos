@@ -1,0 +1,9 @@
+Quito,Guayaquil,80
+Quito,Tena,120
+Quito,Cuenca,150
+Guayaquil,Manta,50
+Manta,Cuenca,90
+Tena,Puyo,40
+Puyo,Cuenca,60
+Guayaquil,Cuenca,100
+Tena,Cuenca,70
